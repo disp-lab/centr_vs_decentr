@@ -21,22 +21,19 @@ The version of the softwares used are:
 - OjAlgoc 40.0
 
 The content of the directories is as follows:
-- CPLEX_linux64\	Directory with 13 empty files. If you use Linux 64 bits, you need to obtain these foles from IBM.
-- CPLEX_mac\	Directory with 12 empty files. If you use MacOS, you need to obtain these foles from IBM.
-- CPLEX_win64\	Directory with 14 empty files. If you use Windows 64 bits, you need to obtain these foles from IBM.
-- MTSP\	Directory with all files except CPLEX
-
-  MTSP\anylogic\	Directory with the AnyLogic model
-  MTSP\anylogic\cache\	Directory with 3 files created by AnyLogic
-  MTSP\anylogic\database\	Directory with 3 files and 1 empty repository created by AnyLogic (We have not used the database provided in all AnyLogic models.)
-  MTSP\anylogic\MTSP.alp The file to be opened in AnyLogic
-  MTSP\anylogic\cplex.jar Empty file to be replaced by yours after you obtained it from IBM.
-  MTSP\anylogic\ojalgo-40.0.0.jar Empty file to be replaced by yours after you obtained it from https://www.ojalgo.org/
-  MTSP\anylogic\output.csv The last results saved by the Parameter Variation Experiment "ParamVar"
-
-  MTSP\results\	Experimental results copied/pasted from MTSP\anylogic\output.csv. "Swap" refers to the constraint of 1-1 exchanges described in section 2.2 in the article, i.e., to our version of MTSP. Hence, "without_swap" refers to the traditional MTSP.
-
-  MTSP\figures\	The figures 6, 7, 8, 9 and 10 in the article with the R code to generate them from the Excel files
+- CPLEX_linux64\  -> Directory with 13 empty files. If you use Linux 64 bits, you need to obtain these foles from IBM.
+- CPLEX_mac\  -> Directory with 12 empty files. If you use MacOS, you need to obtain these foles from IBM.
+- CPLEX_win64\  -> Directory with 14 empty files. If you use Windows 64 bits, you need to obtain these foles from IBM.
+- MTSP\  -> Directory with all files except CPLEX
+  MTSP\anylogic\  -> Directory with the AnyLogic model
+  MTSP\anylogic\cache\  -> Directory with 3 files created by AnyLogic
+  MTSP\anylogic\database\  -> Directory with 3 files and 1 empty repository created by AnyLogic (We have not used the database provided in all AnyLogic models.)
+  MTSP\anylogic\MTSP.alp  -> The file to be opened in AnyLogic
+  MTSP\anylogic\cplex.jar  -> Empty file to be replaced by yours after you obtained it from IBM.
+  MTSP\anylogic\ojalgo-40.0.0.jar  -> Empty file to be replaced by yours after you obtained it from https://www.ojalgo.org/
+  MTSP\anylogic\output.csv  -> The last results saved by the Parameter Variation Experiment "ParamVar"
+  MTSP\results\  -> Experimental results copied/pasted from MTSP\anylogic\output.csv. "Swap" refers to the constraint of 1-1 exchanges described in section 2.2 in the article, i.e., to our version of MTSP. Hence, "without_swap" refers to the traditional MTSP.
+  MTSP\figures\  -> The figures 6, 7, 8, 9 and 10 in the article with the R code to generate them from the Excel files
 
 
 2/ RUN THE MODEL IN ANYLOGIC
