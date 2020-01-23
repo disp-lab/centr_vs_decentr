@@ -11,7 +11,7 @@ Content:
 
 1/ INTRODUCTION
 
-This repository contains the material developped for the article "Cost of selfishness in the allocation of cities in the Multiple Travelling Salesmen Problem" written by Thierry Moyaux and Eric Marcon and published in "Engineering Applications of Artificial Intelligence" in 2019 (https://doi.org/10.1016/j.engappai.2019.103429).
+This repository contains the material developped for the article "Cost of selfishness in the allocation of cities in the Multiple Travelling Salesmen Problem" written by Thierry Moyaux and Eric Marcon and published in "Engineering Applications of Artificial Intelligence" in 2019 (https://doi.org/10.1016/j.engappai.2019.103429 and https://hal.archives-ouvertes.fr/hal-01917948).
 
 Section 2 details how to reproduce the experiments in this article. Section 3 explains the meaning of the XLS Excel files produced from these experiments. Section 4 shows how to use the R scripts to transform these XLS files into EPS images.
 
